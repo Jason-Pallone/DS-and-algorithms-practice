@@ -26,6 +26,6 @@ const compress = (s) => {
     }
     
     return results.join('');
-  };
+};
   
   
